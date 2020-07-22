@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    position: fixed;
+    left: 0;
+    bottom: 15px;
+    width: 100%;
+}
+
+.footer a{
+    margin: auto;
+}
+.icon{
+    height: 45px;
+    width: 45px;
+    flex: auto; 
+}

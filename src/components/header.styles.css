@@ -1,0 +1,17 @@
+.header{
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    position:fixed;
+    top: 20px;
+    left: 85px;
+    right: 85px;
+}
+
+.data{
+    margin: 35px;
+}
+
