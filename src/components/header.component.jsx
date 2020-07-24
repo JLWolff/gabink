@@ -17,17 +17,18 @@ class Header extends React.Component{
     
     render(){
         return(
-        <div className="header">
-            <div>
-                <h1><a href="https://www.instagram.com/hgabink/">@hgabink</a></h1>
+            <div className="header">
+                <div>
+                    <h1><a href="https://www.instagram.com/hgabink/">@hgabink</a></h1>
+                </div>
+                <div class="data">
+                {`${this.state.data}/${this.state.mounth}`}
+                </div>
+                <div class="data">
+                    <Clock />
+                </div>
             </div>
-            <div class="data">
-              {`${this.state.data}/${this.state.mounth}`}
-            </div>
-            <div class="data">
-                <Clock />
-            </div>
-        </div>
+  
         )
     }
 }

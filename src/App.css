@@ -1,8 +1,10 @@
 body{
+  margin: 0px;
   color: white;
   font-family: 'Montserrat', sans-serif;
   background-color: black;
   padding: 20px 60px;
+  cursor: url(./cursor.png), auto;
 }
 
 a{

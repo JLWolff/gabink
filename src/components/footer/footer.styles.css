@@ -1,7 +1,8 @@
 .footer{
     display: flex;
+    justify-content: space-between;
     position: fixed;
-    left: 0;
+    right: 85px;
     bottom: 15px;
     width: 100%;
 }
@@ -10,7 +11,12 @@
     margin: auto;
 }
 .icon{
+    margin-left: 350px;
     height: 45px;
     width: 45px;
     flex: auto; 
+}
+
+.nome{
+    margin-right: 60px;
 }
