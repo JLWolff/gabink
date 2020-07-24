@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "684e24340b0f23d070d0df9f84ecb14f",
+    "revision": "37ae9fce937ff95d82972f4e034a1aa9",
     "url": "/gabink/index.html"
   },
   {
-    "revision": "3093447f52868002e50f",
-    "url": "/gabink/static/css/main.f1620aab.chunk.css"
+    "revision": "3d3a73f0b4b7abdd915d",
+    "url": "/gabink/static/css/main.0209aad1.chunk.css"
   },
   {
     "revision": "bcfe3b1eec429fdb4e62",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gabink/static/js/2.f8e4711b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3093447f52868002e50f",
+    "revision": "3d3a73f0b4b7abdd915d",
     "url": "/gabink/static/js/main.f50d159d.chunk.js"
   },
   {
