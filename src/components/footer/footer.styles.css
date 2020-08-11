@@ -37,3 +37,8 @@
     margin-bottom: 64px;
     font-size: xx-small;
 }
+@media (max-width: 667px){
+    .footerFooter{
+        text-align: center;
+    }
+}

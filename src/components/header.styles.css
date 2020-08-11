@@ -21,3 +21,22 @@
     padding: 12px;
 }
 
+@media (max-width: 667px){
+    .header{
+        margin: 50px auto;
+        margin-bottom: 100px;
+        position: static;
+        top:90px;
+        flex-flow: column;
+        text-align: center;
+    }
+
+    .shop{
+      display: block;
+      text-align: center;
+      padding: 12px 6px;
+    }
+    .hora{
+        display: none;
+    }
+}

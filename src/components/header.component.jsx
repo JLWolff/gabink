@@ -25,7 +25,7 @@ class Header extends React.Component{
                 {/* {`${this.state.data}/${this.state.mounth}`} */}
                     <a href="https://teespring.com/stores/hgabink" className="shop" target="_blank">SHOP NOW</a>
                 </div>
-                <div class="data">
+                <div className="data hora">
                     <Clock />
                 </div>
             </div>

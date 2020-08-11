@@ -22,6 +22,7 @@
 @media (max-width: 667px){
   .grid{
     display: block;
+    margin-top: 55px;
   }
 }
 
