@@ -13,8 +13,8 @@ const Footer = () => (
                 </div>
         </div>
         <div className="footerFooter">
-           <div className="email"><h5>Gabrielart@icloud.com</h5> <br /></div>
-            <div className="copy">Designed and Developed by Wolff © 2020 All rights reserved</div>
+           <div className="email"><h5>gabrielart@icloud.com</h5> <br /></div>
+            <div className="copy">designed and Developed by Wolff © 2020 All rights reserved</div>
         </div>
     </>
 )
