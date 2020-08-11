@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gabink/static/css/main.0209aad1.chunk.css",
-    "main.js": "/gabink/static/js/main.f50d159d.chunk.js",
-    "main.js.map": "/gabink/static/js/main.f50d159d.chunk.js.map",
+    "main.css": "/gabink/static/css/main.c1147200.chunk.css",
+    "main.js": "/gabink/static/js/main.9c5e6f15.chunk.js",
+    "main.js.map": "/gabink/static/js/main.9c5e6f15.chunk.js.map",
     "runtime-main.js": "/gabink/static/js/runtime-main.acfe9da7.js",
     "runtime-main.js.map": "/gabink/static/js/runtime-main.acfe9da7.js.map",
     "static/js/2.f8e4711b.chunk.js": "/gabink/static/js/2.f8e4711b.chunk.js",
     "static/js/2.f8e4711b.chunk.js.map": "/gabink/static/js/2.f8e4711b.chunk.js.map",
     "index.html": "/gabink/index.html",
-    "precache-manifest.43b4c49c0bdf39a0c678429af4bcb3d3.js": "/gabink/precache-manifest.43b4c49c0bdf39a0c678429af4bcb3d3.js",
+    "precache-manifest.c8e76a2abba18677098735ea600eae83.js": "/gabink/precache-manifest.c8e76a2abba18677098735ea600eae83.js",
     "service-worker.js": "/gabink/service-worker.js",
-    "static/css/main.0209aad1.chunk.css.map": "/gabink/static/css/main.0209aad1.chunk.css.map",
+    "static/css/main.c1147200.chunk.css.map": "/gabink/static/css/main.c1147200.chunk.css.map",
     "static/js/2.f8e4711b.chunk.js.LICENSE.txt": "/gabink/static/js/2.f8e4711b.chunk.js.LICENSE.txt",
     "static/media/davi.jpg": "/gabink/static/media/davi.b44ac484.jpg",
     "static/media/flor.jpg": "/gabink/static/media/flor.4bc09e55.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.acfe9da7.js",
     "static/js/2.f8e4711b.chunk.js",
-    "static/css/main.0209aad1.chunk.css",
-    "static/js/main.f50d159d.chunk.js"
+    "static/css/main.c1147200.chunk.css",
+    "static/js/main.9c5e6f15.chunk.js"
   ]
 }
