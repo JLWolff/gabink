@@ -2,7 +2,7 @@
   "name": "gabink",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://JLWolff.github.io/gabink",
+  "homepage": "index.html",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "serve -s build",
-    "build": "react-scripts build",
+    "build": "CI= react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
