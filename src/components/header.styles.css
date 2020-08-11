@@ -15,4 +15,9 @@
 .data{
     margin: 35px;
 }
+.shop{
+    border: 2px white solid;
+
+    padding: 12px;
+}
 

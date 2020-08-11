@@ -19,10 +19,11 @@ class Header extends React.Component{
         return(
             <div className="header">
                 <div>
-                    <h1><a href="https://www.instagram.com/hgabink/">@hgabink</a></h1>
+                    <h1><a href="https://www.instagram.com/hgabink/" target="_blank">@hgabink</a></h1>
                 </div>
                 <div class="data">
-                {`${this.state.data}/${this.state.mounth}`}
+                {/* {`${this.state.data}/${this.state.mounth}`} */}
+                    <a href="https://teespring.com/stores/hgabink" className="shop" target="_blank">SHOP NOW</a>
                 </div>
                 <div class="data">
                     <Clock />

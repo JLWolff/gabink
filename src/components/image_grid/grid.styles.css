@@ -1,7 +1,7 @@
 .grid{
     align-items: end;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(690px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
     overflow-x:hidden;
     overflow-y:hidden;
     

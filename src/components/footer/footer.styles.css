@@ -11,12 +11,29 @@
     margin: auto;
 }
 .icon{
-    margin-left: 350px;
+    margin-left: 330px;
     height: 45px;
     width: 45px;
     flex: auto; 
 }
 
 .nome{
-    margin-right: 60px;
+    margin-right: 40px;
+}
+.footerFooter{
+    flex-direction: column;
+    letter-spacing: 2px;
+    display:flex;
+    margin-left: 40px;
+}
+.email{
+    margin: 0 auto;
+}
+.email h5{
+    margin: 0;
+}
+.copy{
+    margin: 0 auto; 
+    margin-bottom: 64px;
+    font-size: xx-small;
 }
